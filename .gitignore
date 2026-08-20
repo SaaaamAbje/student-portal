@@ -1,0 +1,14 @@
+# Environment & Sensitive Configs
+config/database.php
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Files
+.vscode/
+.idea/
+
+# Local Logs & Caches
+*.log
